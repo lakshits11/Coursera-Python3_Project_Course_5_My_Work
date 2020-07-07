@@ -123,5 +123,4 @@ value_search(value, zip_name, scale_factor = 1.4)
 # reproduce the search for "Mark"
 value = "Mark"
 zip_name = "images.zip"
-
 value_search(value, zip_name, scale_factor = 1.5)
